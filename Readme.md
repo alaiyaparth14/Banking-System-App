@@ -1,5 +1,4 @@
 ﻿# Banking System Project
-#  Banking System Project
 
 A console-based banking application developed using Java and JDBC, designed to simulate basic financial operations and user management.
 
