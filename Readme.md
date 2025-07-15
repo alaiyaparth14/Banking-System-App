@@ -31,4 +31,4 @@ JDBC for DB operations
 
 MySQL (configurable)
 
-Exception Handling & Modular Design
+Exception Handling & Modular Design.
