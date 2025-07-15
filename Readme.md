@@ -24,6 +24,8 @@ A console-based banking application developed using Java and JDBC, designed to s
 
  Input validation and database integrity
 
+ Bank Application Console Based Application
+
  Tech Stack
 Java (Core + OOP)
 
